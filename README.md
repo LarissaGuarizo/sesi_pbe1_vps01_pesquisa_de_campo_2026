@@ -17,12 +17,17 @@ npm run dev
 
 ## Print dos testes e exemplo de requisições
 - CREATE
-!![CREATE](./CREATE.png)
+![CREATE](./CREATE.png)
 - READ ALL
-!![READALL](./READALL.png)
+![READALL](./READALL.png)
 - BUSCAR
-!![BUSCAR](./BUSCAR.png)
+![BUSCAR](./BUSCAR.png)
 - UPDATE
-!![UPDATE](./UPDATE.png)
+![UPDATE](./UPDATE.png)
 - DELETE
-!![DELETE](./DELETE.png)
+![DELETE](./DELETE.png)
+
+### Cliente
+![resposta](./reposta.png)
+- Resposta
+![cliente](./cliente.png)
