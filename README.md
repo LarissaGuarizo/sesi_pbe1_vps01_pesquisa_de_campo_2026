@@ -1,11 +1,11 @@
-## Pesquisa de campo Back-End
+# Pesquisa de campo Back-End
 ## Tecnologias
 - Node.js
 - JavaScript
 - VsCode
 - VsCode Thunder Client
 
-# Passos para testar
+## Passos para testar
 - 1 Clone este repositório
 - 2 Abra com VsCode e em um terminal digite:
 ``
@@ -16,3 +16,13 @@ npm run dev
 - 4 Abra o arquivo client/index.html com a extensão Live Server do VsCode
 
 ## Print dos testes e exemplo de requisições
+- CREATE
+!![CREATE](./CREATE.png)
+- READ ALL
+!![READALL](./READALL.png)
+- BUSCAR
+!![BUSCAR](./BUSCAR.png)
+- UPDATE
+!![UPDATE](./UPDATE.png)
+- DELETE
+!![DELETE](./DELETE.png)
