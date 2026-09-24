@@ -23,7 +23,7 @@ npm run dev
 - BUSCAR
 ![BUSCAR](./BUSCAR.png)
 - UPDATE
-![UPDATE](./UPDATE.png)
+![PUT](./PUT.png)
 - DELETE
 ![DELETE](./DELETE.png)
 
