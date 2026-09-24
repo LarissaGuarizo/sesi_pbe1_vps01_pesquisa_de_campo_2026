@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+      <header><h1>Pesquisa de campo</h1></header>  
+    <main>
+        <section>
+        <form action="http://localhost:3000/usos" method="POST">
+            <input type="number"step="0.01" name="id" placeholder="id" required>
+            <input type="text" name="sistema" placeholder="sistema" required>
+            <select name="tipo" required>
+                <option value="tipo">empresa</option>
+                <option value="tipo">escola</option>
+                <option value="tipo">pessoa</option>
+            </select><br><br>
+            <input type="text" name="finalidade" placeholder="finalidade" required>
+            <input type="text" name="tecnologia" placeholder="tecnologia" required>
+            <p>nível de risco:</p>
+             <select name="nível_risco" required>
+                <option value="baixo">baixo</option>
+                <option value="médio">médio</option>
+                <option value="alto">alto</option>
+            </select><br><br>
+            <p>possui revisão humana?</p>
+            <select name="revisao_humana" required>
+             <option value="true">true</option>
+             <option value="false">false</option>
+             </select><br><br>
+            <input type="submit" value="Enviar">
+       
+    </section></main>
+    <footer><h2>by LarissaGuarizo</h2></footer>
+</body>
+</html>

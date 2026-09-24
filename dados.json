@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "sistema": "Assistente de atendimento",
+        "tipo": "empresa",
+        "finalidade": "Responder dúvidas de clientes",
+        "tecnologia": "IA generativa",
+        "nivel_risco": "Médio",
+        "possui_revisao_humana": true
+    },
+    {
+        "id": 2,
+        "sistema": "Agenda inteligente",
+        "tipo": "escola",
+        "finalidade": "Comunicar avisos",
+        "tecnologia": "HTML",
+        "nivel_risco": "baixo",
+        "possui_revisao_humana": true
+    },
+    {
+        "id": 3,
+        "sistema": "sistema de compras online",
+        "tipo": "empresa",
+        "finalidade": "Vender para mais clientes",
+        "tecnologia": "HTML",
+        "nivel_risco": "Médio",
+        "possui_revisao_humana": true
+    },
+   {
+        "id": 4,
+        "sistema": "sitema de estoque",
+        "tipo": "empresa",
+        "finalidade": "Ter maior controle do estoque da loja",
+        "tecnologia": "HTML",
+        "nivel_risco": "Médio",
+        "possui_revisao_humana": true
+    },
+    {
+        "id": 5,
+        "sistema": "Assistente virtual de estudos",
+        "tipo": "escola",
+        "finalidade": "Ajudar os alunos a estudar e tirar dúvidas",
+        "tecnologia": "IA generativa",
+        "nivel_risco": "Médio",
+        "possui_revisao_humana": true
+    }
+]
